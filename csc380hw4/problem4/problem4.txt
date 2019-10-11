@@ -1,0 +1,5 @@
+The average length for finding the kth element is O(n). As you can see from my spreadsheet,
+the first time QuickSelect calls the LomutoPartition algorithm, the number of comparisons is
+equal to n - 1. However, on a list of length 1,000,000, a total number of 2,491,214 comparisons
+were made. This is means the algorthm lies somewhere between O(n) and O(nlog(n)) (abeit it is
+significantly closer to O(n).

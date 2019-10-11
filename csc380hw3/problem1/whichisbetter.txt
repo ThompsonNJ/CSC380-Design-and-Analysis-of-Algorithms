@@ -1,0 +1,1 @@
+According to my testing, selection sort is about two times better than bubble sort.

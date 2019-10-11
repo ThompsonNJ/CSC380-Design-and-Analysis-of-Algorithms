@@ -1,0 +1,3 @@
+The type of curve of the number of multiplications and divisions appears to be O(log(n)).
+The type of curve of the number of additions is similar to O(log(n), but is much less.
+It appears the number of additions lies somewhere between O(1) and O(log(n)).
